@@ -50,4 +50,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
           DEFAULT_BUMP: patch  
 
-          # Testing Skip Option
+## test #skip on pull request merge
